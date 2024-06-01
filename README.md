@@ -20,8 +20,8 @@ JSON (JavaScript Object Notation) desempenha um papel crucial na Inteligência A
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-- ChatGPT
-
+- IA Generativa ChatGPT para roteirização;
+- IA Generativa Leonardo AI para criar a arte visual do e-book;
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
