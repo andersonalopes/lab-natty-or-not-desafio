@@ -20,11 +20,17 @@ JSON (JavaScript Object Notation) desempenha um papel crucial na Inteligência A
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-- IA Generativa ChatGPT para roteirização;
-- IA Generativa Leonardo AI para criar a arte visual do e-book;
+- [ChatGPT](https://chat.openai.com/)
+- [Leonardo AI](https://app.leonardo.ai/auth/login)
+- [Eleven Labs AI](https://elevenlabs.io/)
+- [CAPCUT](https://www.capcut.com/)                                       
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- IA Generativa ChatGPT para roteirização;
+- IA Generativa Leonardo AI para criar a arte visual para o podcast;
+- IA Generativa Eleven Labs AI para criar a voz do podcast;
+- Uso do programa CAPCUT para editar o audio criado no Eleven Labs AI.
+- Publiquei o podcast no Soundcloud, para compartilhar em minhas Redes Sociais.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
