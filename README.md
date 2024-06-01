@@ -42,3 +42,25 @@ Segue abaixo o link do meu projeto de PODCAST(falando a respeito de JSON):
 Foi bastante interessante este desafio de criar algo 'natty' com IA, pois colocar em prática tudo que foi ministrado nos abre um mar de possibilidade para a utilização
 da AI em nosso cotidiano na área profissional de tecnologia.
 ```
+
+## 👨‍💻 Expert
+
+<p>
+    <p>&nbsp&nbsp&nbspAnderson Lopes<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/andersonalopes">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/anderson-lopes-23686929/">
+        LinkedIn
+    </a>
+   </p>
+</p>
+<br/><br/>
+<p>
+---
+
+
