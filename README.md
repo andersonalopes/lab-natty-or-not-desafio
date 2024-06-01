@@ -39,9 +39,3 @@ Apresente os resultados do seu projeto
 Foi bastante interessante este desafio de criar algo 'natty' com IA, pois colocar em prática tudo que foi ministrado nos abre um mar de possibilidade para a utilização
 da AI em nosso cotidiano na área profissional de tecnologia.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
