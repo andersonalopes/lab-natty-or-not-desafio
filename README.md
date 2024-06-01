@@ -35,7 +35,8 @@ Liste as IAs Generativas e outras ferramentas usadas
 - Publiquei o podcast no Soundcloud, para compartilhar em minhas Redes Sociais.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Segue abaixo o link do meu projeto de PODCAST(falando a respeito de JSON):
+- [PODCAST sobre Json](https://soundcloud.com/user403299591/a-importancia-do-json-na-inteligencia-artificial)
 
 ## 💭 Reflexão (Opcional)
 Foi bastante interessante este desafio de criar algo 'natty' com IA, pois colocar em prática tudo que foi ministrado nos abre um mar de possibilidade para a utilização
