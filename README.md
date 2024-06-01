@@ -23,7 +23,9 @@ Liste as IAs Generativas e outras ferramentas usadas
 - [ChatGPT](https://chat.openai.com/)
 - [Leonardo AI](https://app.leonardo.ai/auth/login)
 - [Eleven Labs AI](https://elevenlabs.io/)
-- [CAPCUT](https://www.capcut.com/)                                       
+- [CAPCUT](https://www.capcut.com/)
+- [Soundcloud](https://soundcloud.com/)                                      
+                                       
 
 ## 🧐 Processo de Criação
 - IA Generativa ChatGPT para roteirização;
