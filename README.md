@@ -61,6 +61,5 @@ da AI em nosso cotidiano na área profissional de tecnologia.
 </p>
 <br/><br/>
 <p>
----
 
 
